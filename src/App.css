@@ -1,0 +1,24 @@
+.App {
+  width: 100%;
+}
+
+.selected {
+  border-color: rgba(44, 75, 249, 0.8) !important;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset,
+    0 0 8px rgba(78, 134, 232, 0.6) !important;
+  outline: 0 none;
+}
+
+.text-code-btn-change {
+  margin-left: 2px;
+  margin-right: 2px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.text-code-btn {
+  font-weight: 300;
+}
+.iframe-display {
+  margin-top: 20px;
+  height: 100vh;
+}
